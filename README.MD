@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://i.ibb.co/VcD9c1w8/Logo.png" alt="Antenna" width="200"></a>
+  <a href=""><img src="https://i.ibb.co/N66NSK4Z/animated.gif" alt="Antenna" width="200"></a>
   <br>
-  📡 2.4 GHz Antenna CST-MATLAB
+    🎨 DOS-X ASM 2D Draw App
   <br>
 </h1>
 
