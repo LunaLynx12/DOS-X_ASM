@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://i.ibb.co/N66NSK4Z/animated.gif" alt="Antenna" width="200"></a>
+  <a href=""><img src="https://i.ibb.co/N66NSK4Z/animated.gif" alt="Antenna" width="100%"></a>
   <br>
     🎨 DOS-X ASM 2D Draw App
   <br>
